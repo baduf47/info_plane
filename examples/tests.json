@@ -1,0 +1,18 @@
+[
+  {
+    "v": 800,
+    "t": 3,
+    "c": "большой",
+    "f": "нормальный",
+    "expected_success": true,
+    "expected_value": 2880
+  },
+  {
+    "v": -100,
+    "t": 2,
+    "c": "большой",
+    "f": "нормальный",
+    "expected_success": false,
+    "expected_value": "скорость должна быть > 0"
+  }
+]
